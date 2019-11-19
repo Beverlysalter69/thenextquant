@@ -31,11 +31,6 @@
 pip install thenextquant
 ```
 
-or
-
-```text
-pip install -e git+https://github.com/TheNextQuant/thenextquant.git#egg=thenextquant
-```
 
 ### Demo使用示例
 
