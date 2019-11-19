@@ -1,9 +1,17 @@
 # Change Logs
 
 
+
+### v0.2.3
+
+*Date: 2019/11/19*  
+*Summary:*
+- Fix bug: Add AssetEvent to EventCenter.
+
+
 ### v0.2.2
 
-*Date: 2019/10/09*  
+*Date: 2019/11/09*  
 *Summary:*
 - Add [Digifinex](../example/digifinex) Trade module.
 - Add `*args` `**kwargs` params for `create_order` function.

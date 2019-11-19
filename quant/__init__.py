@@ -9,4 +9,4 @@ Email:  huangtao@ifclover.com
 """
 
 __author__ = "HuangTao"
-__version__ = (0, 2, 2)
+__version__ = (0, 2, 3)
